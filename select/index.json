@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "winning the soul",
+  "base_artist": "トウカイテイオー (CV. Machico)",
+  "createdAt": "2026-01-09T06:58:47.473418Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Winning the Soul (TV Size)",
+      "artist": "トウカイテイオー (CV. Machico)",
+      "has_synced": false,
+      "path": "select/01_Winning_the_Soul_(TV_Size)_トウカイテイオー_(CV._Machico).txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Winning the Soul (Game Size)",
+      "artist": "スペシャルウィーク (CV. 和氣あず未)",
+      "has_synced": false,
+      "path": "select/02_Winning_the_Soul_(Game_Size)_スペシャルウィーク_(CV._和氣あず未).txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Winning the Soul",
+      "artist": "スペシャルウィーク (CV. 和氣あず未)",
+      "has_synced": true,
+      "path": "select/03_Winning_the_Soul_スペシャルウィーク_(CV._和氣あず未).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Winning the Soul",
+      "artist": "Tokai Teio (CV: Machico)",
+      "has_synced": true,
+      "path": "select/04_Winning_the_Soul_Tokai_Teio_(CV__Machico).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "winning the soul (Game Size)",
+      "artist": "スペシャルウィーク (CV.和氣あず未)",
+      "has_synced": false,
+      "path": "select/05_winning_the_soul_(Game_Size)_スペシャルウィーク_(CV.和氣あず未).txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "winning the soul (Game Size)",
+      "artist": "スペシャルウィーク(CV.和氣あず未)",
+      "has_synced": false,
+      "path": "select/06_winning_the_soul_(Game_Size)_スペシャルウィーク(CV.和氣あず未).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "winning the soul",
+      "artist": "トウカイテイオー(Machico)",
+      "has_synced": false,
+      "path": "select/pl_01_winning_the_soul_トウカイテイオー(Machico).txt"
+    }
+  ]
+}
